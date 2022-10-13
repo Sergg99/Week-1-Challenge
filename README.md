@@ -50,3 +50,17 @@ Our second task was to develop and interpret the data revolving the success rate
 ![Image 5](https://github.com/Sergg99/Week-1-Challenge/blob/7efd444bb7415ca75c9006be481c83ee280f6820/Challange%20Week%201/Resources/Outcomes_vs_Goals.png)
 
 Based on our data we can conclude that plays that have lower expectations/goals, usually perform better than in most plays that have higher goals. As we can see in image. While a subtantial amount of plays that end in a failure have higher expectation regarding their goal amount, labeled in orange. On average there are more "expensive" failure than there are successes with regard to outcomes based on their goal. 
+
+
+### Summary
+
+Louise's analysis consists on the outcomes of plays based on their goals, we created a table based on a count of successful plays of her interest, as well as the number of failed and canceled campaigns. A percentage was obtained from each category from the total projections of the plays. We concluded that there were more successful plays in the first quartile (based on goal). 
+On the other hand, we looked at the count of outcomes based on their success, fail, or canceled campaigns and the date of their launch. We concluded that there were more successful outcomes in the month of May. The visual representations of the data interpretation were able to give Louise the understanding she needed to one day launch her own successful campaign. 
+      
+      See table below: 
+      https://github.com/Sergg99/Week-1-Challenge/blob/fa16584b62e1e72f60b02d64bd7989f97f998add/Challange%20Week%201/Resources/Overview%20Resources/Theater%20Outcomes%20by%20Lauch%20Date_PivotTable.jpg
+      
+![Image 6](https://github.com/Sergg99/Week-1-Challenge/blob/fa16584b62e1e72f60b02d64bd7989f97f998add/Challange%20Week%201/Resources/Overview%20Resources/Theater%20Outcomes%20by%20Lauch%20Date_PivotTable.jpg)
+
+     Subcategories representation:
+![Image 6](https://github.com/Sergg99/Week-1-Challenge/blob/0b8203d707a0e071d075ab50e0535ccfa0e2a105/Challange%20Week%201/Resources/Overview%20Resources/Subcategories%20Outcomes.jpg)
