@@ -5,6 +5,7 @@ Overview: The purpose of this analysis is to help Louise understand the scope of
 
     See images attached: 
        Challange Week 1/Resources/Overview Resources/Subcategories Outcomes.jpg
+            or
        https://github.com/Sergg99/Week-1-Challenge/blob/5c4d9d3ee91d99754311767a55f19553337c708b/Challange%20Week%201/Resources/Overview%20Resources/Subcategories%20Outcomes.jpg
 
 Analysis and Challenges: During this analysis, I encounterd multiple tasks. 
